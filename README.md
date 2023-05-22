@@ -78,7 +78,7 @@ Adam Glantz: adamglantz@yahoo.com
 
 **4-ACKNOWLEDGEMENTS**
 
-I shared code with two classmates, *Karishma Sanghvi* and *Nancy K. Sakyi*. I also consulted with three GitHub repos regarding very similar data visualization challenges I found through a Google Search:
+I shared code with two classmates, *Karishma Sanghvi* and *Nancy K. Sakyi*. I also consulted with three GitHub repos regarding very similar API / plotting / mapping challenges I found through a Google Search:
 
     Author: Miles Lucey: San Jose, CA USA, Feb 2019 (mileslucey@gmail.com) = https://github.com/mileslucey/weatherpy/blob/master/WeatherPy.ipynb
     Author: Matt Debnar: New York, NY USA, June 2020 (https://debnar.com / @debnar) = https://github.com/bbixby/python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb
