@@ -59,7 +59,7 @@ VacationPy:
 
 *Resources -*
     cities.csv (from citipy, for both projects),
-    https://api.openweathermap.org/data/2.5/weather (for WeatherPy)
+    https://api.openweathermap.org/data/2.5/weather (for WeatherPy),
     https://api.geoapify.com/v2/place (for VacationPy)
 
 **NOTES**
