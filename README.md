@@ -13,7 +13,7 @@ Python API Challenge
 
 **1-PROJECT DESCRIPTION**
 
-In this assignment, we were tasked with using Python requests, APIs, and JSON dictionaries to answer questions about the relationship between certain meterological variables and latitude (WeatherPy), as well as to determine the best places for a vacation given the author's climate preferences.
+In this assignment, we were tasked with using Python requests, APIs, and JSON dictionaries to answer questions about the relationship between certain meteorological variables and latitude (WeatherPy), as well as to determine the best places for a vacation given the author's climate preferences.
 
 **For WeatherPy:** Dependencies were installed. For a particular day, random combinations of latitude and logitude were generated at set intervals, and then cities close to those coordinates were identified in the citipy dataset and printed. Each city was matched against the data in https://api.openweathermap.org/data/2.5/weather and sequentially printed as meteorlogical data for them was captured in a list, with unmatched cities ignored. After verification of the volume and variables of the list, scatter plots were created from the city data of latitude vs. maximum temperature, humidity, cloudiness, and wind speed. The data was divided into northern hemisphere and southern hemisphere subsets by latitude ranges, and the operation was confirmed by printing out samples. Scatter plots using the same variables as before were created from the data in each hemisphere, this time with a regression model and line added and Pearson's r calculated for each plot. Analysis for each set of scatterplots' linear relationships was provided. 
 
